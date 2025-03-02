@@ -1,0 +1,2 @@
+# bilibili_assistant_script
+一个油猴脚本，利用b站AI小助手提供字幕的能力，提取B站视频字幕
